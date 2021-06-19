@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\bin\Debug\WindowsFormsApp_Temp.exe.config
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\bin\Debug\WindowsFormsApp_Temp.exe
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\bin\Debug\WindowsFormsApp_Temp.pdb
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.Form1.resources
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.Properties.Resources.resources
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.exe
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.pdb
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.Form2.resources
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.Form3.resources
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.Form4.resources
+C:\Users\pc\source\repos\WindowsFormsApp_Temp\WindowsFormsApp_Temp\obj\Debug\WindowsFormsApp_Temp.Form5.resources
